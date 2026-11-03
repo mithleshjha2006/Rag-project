@@ -1,0 +1,11 @@
+docling
+rank-bm25 
+sentence-transformers
+faiss-cpu
+langchain
+langchain-text-splitters
+langchain-groq
+pydantic
+python-dotenv
+streamlit 
+ragas
